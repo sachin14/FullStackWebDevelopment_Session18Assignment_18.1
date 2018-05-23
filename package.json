@@ -1,0 +1,26 @@
+{
+  "name": "assignment18.1",
+  "version": "1.0.0",
+  "description": "New Assignment 18 Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachin14/FullStackWebDevelopment_Session18Assignment_18.1.git"
+  },
+  "keywords": [
+    "Assignment18.1"
+  ],
+  "author": "Sachin Jamthe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachin14/FullStackWebDevelopment_Session18Assignment_18.1/issues"
+  },
+  "homepage": "https://github.com/sachin14/FullStackWebDevelopment_Session18Assignment_18.1#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
